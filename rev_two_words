@@ -1,0 +1,3 @@
+b=input()
+h=b.split(" ")
+print(h[1]+" "+h[0])
